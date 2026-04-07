@@ -6,6 +6,12 @@
 
 ### [商务与沟通](./prompts/business-communication/README.zh-CN.md)
 
+- [邮件撰写]()
+- [会议辅助]()
+- [谈判与销售话术]()
+- [客户服务]()
+- [商务文档]()
+
 ### [内容创作](./prompts/content-creation/README.zh-CN.md)
 
 - [文章写作]()
@@ -16,12 +22,35 @@
 
 ### [学习与教育](./prompts/learning-education/README.zh-CN.md)
 
+- [文章写作]()
+- [创意写作]()
+- [改写润色]()
+- [标题/口号]()
+- [内容总结]()
+
 ### [设计创意](./prompts/design-creative/README.zh-CN.md)
+
+- [文章写作]()
+- [创意写作]()
+- [改写润色]()
+- [标题/口号]()
+- [内容总结]()
 
 ### [生活和生产力](./prompts/life-productivity/README.zh-CN.md)
 
+- [文章写作]()
+- [创意写作]()
+- [改写润色]()
+- [标题/口号]()
+- [内容总结]()
+
 ### [氛围编码](./prompts/vibe-coding/README.zh-CN.md)
 
+- [文章写作]()
+- [创意写作]()
+- [改写润色]()
+- [标题/口号]()
+- [内容总结]()
 
 ## 🔌 集成
 
