@@ -4,9 +4,26 @@
 
 ## 💬 提示词库
 
+- [商务与沟通](./prompts/business-communication/README.zh-CN.md)
+- [内容创作](./prompts/content-creation/README.zh-CN.md)
+- [学习与教育](./prompts/learning-education/README.zh-CN.md)
+- [设计创意](./prompts/design-creative/README.zh-CN.md)
+- [生活和生产力](./prompts/life-productivity/README.zh-CN.md)
+- [氛围编码](./prompts/vibe-coding/README.zh-CN.md)
 
 
 ## 🔌 集成
+
+### SDK
+
+
+
+### MCP
+
+
+
+### CLI
+
 
 
 ## ⚡ 在线尝试
@@ -32,5 +49,5 @@
 
 ## 📜 许可证
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT License. See [LICENSE](LICENSE) for details.
 
